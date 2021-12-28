@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\oopsTutorials\firstDemo\bin\Debug\net5.0\firstDemo.exe
+C:\Users\Acer\Desktop\oopsTutorials\firstDemo\bin\Debug\net5.0\firstDemo.deps.json
+C:\Users\Acer\Desktop\oopsTutorials\firstDemo\bin\Debug\net5.0\firstDemo.runtimeconfig.json
+C:\Users\Acer\Desktop\oopsTutorials\firstDemo\bin\Debug\net5.0\firstDemo.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\oopsTutorials\firstDemo\bin\Debug\net5.0\firstDemo.dll
+C:\Users\Acer\Desktop\oopsTutorials\firstDemo\bin\Debug\net5.0\ref\firstDemo.dll
+C:\Users\Acer\Desktop\oopsTutorials\firstDemo\bin\Debug\net5.0\firstDemo.pdb
+C:\Users\Acer\Desktop\oopsTutorials\firstDemo\obj\Debug\net5.0\firstDemo.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\oopsTutorials\firstDemo\obj\Debug\net5.0\firstDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\oopsTutorials\firstDemo\obj\Debug\net5.0\firstDemo.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\oopsTutorials\firstDemo\obj\Debug\net5.0\firstDemo.AssemblyInfo.cs
+C:\Users\Acer\Desktop\oopsTutorials\firstDemo\obj\Debug\net5.0\firstDemo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\oopsTutorials\firstDemo\obj\Debug\net5.0\firstDemo.dll
+C:\Users\Acer\Desktop\oopsTutorials\firstDemo\obj\Debug\net5.0\ref\firstDemo.dll
+C:\Users\Acer\Desktop\oopsTutorials\firstDemo\obj\Debug\net5.0\firstDemo.pdb
+C:\Users\Acer\Desktop\oopsTutorials\firstDemo\obj\Debug\net5.0\firstDemo.genruntimeconfig.cache
